@@ -37,7 +37,7 @@
 - POST <http://localhost:3000/api/users/login>
 - GET <http://localhost:3000/api/example>
 
-## Create user with Postman (provides token)
+## test app with Postman (provides token)
 
 1. POST <http://localhost:3000/api/users/register> - set Body / Raw / JSON - Send
 
