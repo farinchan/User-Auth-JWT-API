@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/farinchan/authJWT-API-Mongodb.git"
+    "url": "git+https://github.com/farinchan/User-Auth-JWT-API.git"
   },
   "keywords": [
     "auth",
@@ -20,9 +20,9 @@
   "author": "Fajri Rinaldi Chan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/farinchan/authJWT-API-Mongodb/issues"
+    "url": "https://github.com/farinchan/User-Auth-JWT-API/issues"
   },
-  "homepage": "https://github.com/farinchan/authJWT-API-Mongodb#readme",
+  "homepage": "https://github.com/farinchan/User-Auth-JWT-API#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.0",
